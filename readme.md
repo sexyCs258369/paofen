@@ -18,6 +18,9 @@
 ## 运营端展示
 ### 后台-会员
 ![image](https://raw.githubusercontent.com/sexyCs258369/paofen/refs/heads/main/%E5%90%8E%E5%8F%B0-%E4%BC%9A%E5%91%98.png)
+### 后台-产品
+![image](https://raw.githubusercontent.com/sexyCs258369/paofen/refs/heads/main/%E5%90%8E%E5%8F%B0-%E4%BC%9A%E5%91%98.png)
+
 ## 接口支付端
 
 ## 机器人
