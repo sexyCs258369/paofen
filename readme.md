@@ -4,7 +4,7 @@
 ### 支持多语言、多币种、多软件的全新升级的跑分系统
 
 # 商务合作
-## 请联系飞机：<a href="https://t.me/yuanzitech" target="_blank">详谈</a>
+## 请联系飞机：<a href="https://t.me/AXPay06" target="_blank">详谈</a>
 
 # 业务描述
 ## 码商端展示
