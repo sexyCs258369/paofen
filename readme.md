@@ -16,7 +16,8 @@
 ![image](https://github.com/sexyCs258369/paofen/blob/main/%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.png?raw=true)![image](https://raw.githubusercontent.com/sexyCs258369/paofen/refs/heads/main/%E8%B4%A6%E6%88%B7%E8%AE%BE%E7%BD%AE.png)
 
 ## 运营端展示
-
+### 后台-会员
+![image](https://raw.githubusercontent.com/sexyCs258369/paofen/refs/heads/main/%E5%90%8E%E5%8F%B0-%E4%BC%9A%E5%91%98.png)
 ## 接口支付端
 
 ## 机器人
