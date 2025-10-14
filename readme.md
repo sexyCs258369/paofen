@@ -31,7 +31,9 @@ Java后台 + Vue前端 ， 技术健壮扎实且支持扩展，保障上万级�
 ![image](https://raw.githubusercontent.com/sexyCs258369/paofen/refs/heads/main/%E6%94%AF%E4%BB%98%E5%AE%9D%E8%BD%AC%E8%B4%A6.jpg)
 ### 抖音扫码转账
 ![image](https://raw.githubusercontent.com/sexyCs258369/paofen/refs/heads/main/%E6%8A%96%E9%9F%B3%E8%BD%AC%E8%B4%A6.jpg)
-### 还支持其他 USDT、银行卡、银联、PayPal、海外银行卡等等
+### 银行卡转账
+![image](https://raw.githubusercontent.com/sexyCs258369/paofen/refs/heads/main/%E9%93%B6%E8%A1%8C%E5%8D%A1%E6%94%AF%E4%BB%98.png)
+### 还支持其他 USDT、银联、云闪付、PayPal、海外银行卡订制支付等等
 
 
 ## 机器人
