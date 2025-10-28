@@ -10,9 +10,9 @@
 # 技术架构
 Java后台 + Vue前端 ， 技术健壮扎实且支持扩展，保障上万级别的码商在线
 
-# 在线演示
-后台地址: http://pfmgr.olddriver.cc (请联系客服获取演示账户信息)
-码商地址：http://pfuser.olddriver.cc/
+# 在线演示 (请联系客服获取演示账户信息)
+## 后台地址: http://pfmgr.olddriver.cc 
+## 码商地址（H5移动端，也可打包安装APK包）：http://pfuser.olddriver.cc/
 
 # 业务描述
 ## 码商端展示
